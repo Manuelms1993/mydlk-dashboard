@@ -1,0 +1,1 @@
+hive url --> hive://host.docker.internal:10000/raw
